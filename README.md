@@ -2,6 +2,13 @@
 
 A desktop GUI application for [Pixela](https://pixe.la/) - a habit tracking service that lets you create graphs and record your daily activities.
 
+
+<img width="300" height="300" alt="Screenshot from 2025-12-15 21-36-17" src="https://github.com/user-attachments/assets/e9687ddb-e421-4efe-b6f9-f6991f6183ca" />
+
+<img width="300" height="300" alt="Screenshot from 2025-12-15 21-50-37" src="https://github.com/user-attachments/assets/8bb2c980-14ae-4912-93f1-eba232cee96b" />
+
+<img width="300" height="300" alt="Screenshot from 2025-12-15 21-36-50" src="https://github.com/user-attachments/assets/9a800820-aeaf-4d05-a3f5-656334a659ee" />
+
 ## 📋 Overview
 
 Pixela UI Desktop provides a simple, easy-to-use graphical interface to interact with the Pixela API. Track your habits, create custom graphs, and manage your progress all from a desktop application built with Python and CustomTkinter.
