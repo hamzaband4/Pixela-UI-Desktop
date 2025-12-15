@@ -172,7 +172,7 @@ The application uses the following main libraries:
 - Minimum token length is 8 characters
 - Internet connection is required for all operations
 - Your data is never shared or saved
-- CTkDatePicker in this project is a forked and modified version of the original [CTkDatePicker](https://github.com/maxverwiebe/CTkDatePicker) thanks to [maxverwiebe](https://github.com/maxverwiebe)
+- CTkDatePicker in this project is a forked and modified version of the original [CTkDatePicker](https://github.com/maxverwiebe/CTkDatePicker). Thanks to [maxverwiebe](https://github.com/maxverwiebe)
 
 ## 📝 License
 
